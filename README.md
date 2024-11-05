@@ -32,7 +32,7 @@ This repo contains the codes used for the ML analysis in [arXiv number]. The aim
 ```bash
 # Example to get it running
 pip install numpy matplotlib tensorflow
-git clone https://github.com/IndiraOcampo/
+git clone https://github.com/IndiraOcampo/Growth_LSS_model_selection.git
 ```
 
 ## Usage
@@ -46,7 +46,7 @@ If you are using the content provided in this repository to do your own analysis
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/IndiraOcampo/}},
+  howpublished = {\url{https://github.com/IndiraOcampo/Growth_LSS_model_selection.git}},
 }
 ```
 
@@ -59,7 +59,7 @@ If you are using the content provided in this repository to do your own analysis
       eprint={2410.05209},
       archivePrefix={arXiv},
       primaryClass={astro-ph.CO},
-      url={https://arxiv.org/abs/2410.05209}, 
+      url={https://arxiv.org/abs/}, 
 }
 ```
 
