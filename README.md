@@ -40,26 +40,13 @@ git clone https://github.com/IndiraOcampo/Growth_LSS_model_selection.git
 If you are using the content provided in this repository to do your own analysis, please cite this repository and the manuscript:
 
 ```bash
-@misc{CMB_ML_based_model_selection,
-  author = {Ocampo, I},
-  title = {CMB ML based model selection},
+@misc{[Growth_LSS_model_selection_Coupled_Dark_Energy,
+  authors = {Ocampo I, Goh L},
+  title = {Growth LSS model selection},
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/IndiraOcampo/Growth_LSS_model_selection.git}},
-}
-```
-
-
-```bash
-@misc{ocampo2024neuralnetworkscosmologicalmodel,
-      title={Neural Networks for cosmological model selection and feature importance using Cosmic Microwave Background data}, 
-      author={I. Ocampo and G. Cañas-Herrera and S. Nesseris},
-      year={2024},
-      eprint={2410.05209},
-      archivePrefix={arXiv},
-      primaryClass={astro-ph.CO},
-      url={https://arxiv.org/abs/}, 
+  howpublished = {\url{https://github.com/IndiraOcampo/Growth_LSS_model_selection_Coupled_Dark_Energy.git}},
 }
 ```
 
