@@ -17,7 +17,7 @@
 
 This repo contains the codes used for the ML analysis in [arXiv number]. The aim is to perform model selection between $\Lambda$CDM and a Coupled Dark Energy (CDE) model (see arXiv:2211.13588) with the growth rate $f\sigma_8$ data. This folder contains:
 1. The $f\sigma_8$ data creation file within the context of the modified version of \texttt{CLASS} for this CDE model: https://github.com/LisaGoh/CDE (python)
-2. The Neural Network for model classification CDE and $\Lambda$ CDM, for the $\beta_1$ activation case. (jupyter notebook)
+2. The Neural Network for model classification CDE and ΛCDM, for the $\beta_1$ activation case. (jupyter notebook)
 3. The Neural Network for the multi-class case $\beta_1$ and $\beta_2 + \beta_3$. (jupyter notebook)
 
 ## Installation
