@@ -52,4 +52,4 @@ If you are using the content provided in this repository to do your own analysis
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/IndiraOcampo/CMB_ML_based_model_selection/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/IndiraOcampo/Growth_LSS_model_selection_CDE/LICENSE) file for details.
