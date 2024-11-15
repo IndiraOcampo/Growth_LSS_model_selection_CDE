@@ -49,6 +49,14 @@ If you are using the content provided in this repository to do your own analysis
   howpublished = {\url{https://github.com/IndiraOcampo/Growth_LSS_model_selection_Coupled_Dark_Energy.git}},
 }
 ```
+```bash
+@misc{goh2024distinguishing,
+  title={Distinguishing Coupled Dark Energy Models with Neural Networks},
+  author={Goh, LWK and Ocampo, I and Nesseris, S and Pettorino, V},
+  journal={arXiv preprint arXiv:2411.04058},
+  year={2024},
+}
+```
 
 ## License
 
